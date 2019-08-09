@@ -1,0 +1,47 @@
+baseURL = "/"
+DefaultContentLanguage = "de"
+languageCode = "de-at"
+title = "blog.stousn.at"
+theme = "terminal"
+paginate = "5"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  [permalinks]
+    blog = "/:filename/"
+
+[languages]
+  [languages.de]
+    title = "blog.stousn.at"
+    subtitle = "Blog"
+    keywords = ""
+    copyright = "&copy; Stefan Reip"
+    menuMore = "Mehr anzeigen"
+    readMore = "Weiterlesen"
+    readOtherPosts = "Andere Posts"
+
+    [languages.de.params.logo]
+      logoText = "blog.stousn.at"
+      logoHomeLink = "/"
+
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+#      [[languages.de.menu.main]]
+ #       identifier = "showcase"
+  #      name = "Showcase"
+   #     url = "/showcase"
