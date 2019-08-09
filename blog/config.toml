@@ -11,7 +11,7 @@ paginate = "5"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 2
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
@@ -19,8 +19,8 @@ paginate = "5"
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
-  [permalinks]
-    blog = "/:filename/"
+[permalinks]
+  posts = "/:filename/"
 
 [languages]
   [languages.de]
@@ -41,6 +41,19 @@ paginate = "5"
         identifier = "home"
         name = "Home"
         url = "/"
+        weight = 1
+
+        [[languages.de.menu.main]]
+        identifier = "stousn.at"
+        name = "stousn.at"
+        url = "https://stousn.at"
+        weight = 3
+
+        [[languages.de.menu.main]]
+        identifier = "stousn.dev"
+        name = "stousn.dev"
+        url = "https://stousn.dev"
+        weight = 4
 #      [[languages.de.menu.main]]
  #       identifier = "showcase"
   #      name = "Showcase"

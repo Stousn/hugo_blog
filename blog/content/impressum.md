@@ -2,6 +2,7 @@
 title: "Impressum"
 draft: false
 menu: "main"
+weight: 2
 ---
 
 Informationspflicht laut §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch, §63 Gewerbeordnung und Offenlegungspflicht laut §25 Mediengesetz.
