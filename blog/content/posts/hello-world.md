@@ -13,7 +13,7 @@ In dem ersten Post möchte ich euch kurz erzählen warum ihr hier was und wie le
 ## Warum
 Früher hatte ich schon den einen oder anderen Blog. Aus zeitlichen Gründen habe ich diese aber neben dem Studium und der Arbeit nicht weiter betrieben. 
 Nun bin ich mit meinem Studium aber bald fertig (Ich sollte auch gerade an der Masterarbeit schreiben \**hust*\*) und wollte wieder einfach einen kleinen Blog. 
-Twitter (<a href="http://twitter.com/5tousn>">@5tousn</a>) ist da oft nicht der richtige Ort dazu und auch meine <a href="https://stousn.at">Homepage</a> ist nicht passend. Also habe ich mich für einen Blog entschieden, den ich per Redirect der Subdomain blog.stousn.at "vermarkte".
+Twitter (<a href="http://twitter.com/5tousn">@5tousn</a>) ist da oft nicht der richtige Ort dazu und auch meine <a href="https://stousn.at">Homepage</a> ist nicht passend. Also habe ich mich für einen Blog entschieden, den ich per Redirect der Subdomain blog.stousn.at "vermarkte".
 
 ## Inhalt
 Grenzen, was den Inhalt oder den zeitlichen Ramen angeht, setze ich mir hier nicht. Nur so viel: Ich werde eventuell über das eine oder andere Projekt schreiben aber auch über Ausflüge die ich mit Bildern dokumentiere. Außerdem bekommen die YouTube Videos auf dem Kanal von Vanessa (<a href="http://twitter.com/Kroko615">@Kroko615</a>) und mir auch jeweils einen eigenen Beitrag. 
