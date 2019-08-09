@@ -16,7 +16,7 @@ Nun bin ich mit meinem Studium aber bald fertig (Ich sollte auch gerade an der M
 Twitter (<a href="http://twitter.com/5tousn">@5tousn</a>) ist da oft nicht der richtige Ort dazu und auch meine <a href="https://stousn.at">Homepage</a> ist nicht passend. Also habe ich mich für einen Blog entschieden, den ich per Redirect der Subdomain blog.stousn.at "vermarkte".
 
 ## Inhalt
-Grenzen, was den Inhalt oder den zeitlichen Ramen angeht, setze ich mir hier nicht. Nur so viel: Ich werde eventuell über das eine oder andere Projekt schreiben aber auch über Ausflüge die ich mit Bildern dokumentiere. Außerdem bekommen die YouTube Videos auf dem Kanal von Vanessa (<a href="http://twitter.com/Kroko615">@Kroko615</a>) und mir auch jeweils einen eigenen Beitrag. 
+Grenzen, was den Inhalt oder den zeitlichen Rahmen angeht, setze ich mir hier nicht. Nur so viel: Ich werde eventuell über das eine oder andere Projekt schreiben aber auch über Ausflüge die ich mit Bildern dokumentiere. Außerdem bekommen die YouTube Videos auf dem Kanal von Vanessa (<a href="http://twitter.com/Kroko615">@Kroko615</a>) und mir auch jeweils einen eigenen Beitrag. 
 
 ## Technologie
 Dass der nächste Blog nicht auf Wordpress, Blogger oder Co gehostet wird, war für mich von Anfang an klar. Ich wollte selbst verantwortlich dafür sein wie und wo der Blog betrieben wird. 
