@@ -1,5 +1,5 @@
 ---
-title: "[Video]: Grüner See - Über und unter Wasser"
+title: "[VIDEO]: Grüner See - Über und unter Wasser"
 date: 2019-08-14T16:08:40+02:00
 draft: false
 ---
