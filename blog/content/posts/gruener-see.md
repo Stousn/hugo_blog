@@ -9,7 +9,7 @@ In der obersteirischen Gemeinde Tragöß-Sankt Katharein - genauer im Ortsteil O
 Am Fuße des Hochschwabgebirges liegt dieser Schmelzwassersee, dessen Wasserfarbe smaragdgrün schimmernd“ wirkt. Dies liegt einerseits am 4-6 Grad kalten und klarem Wasser welches rote Farbteile filtert und andererseits am Kalkstein und dem fehlenden schlammigen Untergrund. Wie Gletschermilch enthält das Wasser auch feine Anteile zerriebenen Gesteins, welches grüne und blaue Farbteile stärker reflektiert.   
 Hat der See im Frühsommer eine Tiefe von 10m und verschlingt Wiesen, Wege und Sitzbänke rund herum. Im Herbst hingegen trocknet der See bis auf Wasserreste an den tiefsten Stellen vollständig aus.
 
-<!-- more -->
+<!--more-->
 
 {{< youtube id="3c-pOkr1J6U" >}}
 
